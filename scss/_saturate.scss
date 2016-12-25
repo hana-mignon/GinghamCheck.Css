@@ -1,0 +1,13 @@
+/*
+  * "GinghamCheck.Css" -Version 1.0.0-beta.2~- Css.
+  * Saturate colors scss file.
+  * The MIT License.
+  * Copyright hana.
+  * https://github.com/hana-mignon.
+*/  
+
+.gingham-check-saturate {
+  background-color: $bg-color;
+  background-image: linear-gradient(to bottom, saturate($bg-img-color-width, $bg-bottom-percent) $amount, $bg-element $amount), linear-gradient(to right, saturate($bg-img-color-height, $bg-right-percent) $amount, $bg-element $amount);
+  background-size: $bg-size $bg-size;
+}

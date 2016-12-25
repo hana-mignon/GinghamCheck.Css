@@ -1,0 +1,9 @@
+/*
+  * "GinghamCheck.Css" -Version 1.0.0-beta.2~- Css.
+  * Min css file.
+  * The MIT License.
+  * Copyright hana.
+  * https://github.com/hana-mignon.
+*/  
+
+.gingham-check { background-color: transparent; background-image: linear-gradient(to bottom, hotpink 50%, transparent 50%), linear-gradient(to right, lightpink 50%, transparent 50%); background-size: 5px 5px;} .gingham-check-lighten { background-color: transparent; background-image: linear-gradient(to bottom, #ff92c8 50%, transparent 50%), linear-gradient(to right, #ffdfe4 50%, transparent 50%); background-size: 5px 5px;} .gingham-check-saturate { background-color: transparent; background-image: linear-gradient(to bottom, hotpink 50%, transparent 50%), linear-gradient(to right, lightpink 50%, transparent 50%); background-size: 5px 5px;}.gingham-check-desaturate { background-color: transparent; background-image: linear-gradient(to bottom, #f96fb4 50%, transparent 50%), linear-gradient(to right, #fcb9c3 50%, transparent 50%); background-size: 5px 5px;} .gingham-check-darken { background-color: transparent; background-image: linear-gradient(to bottom, #ff40a0 50%, transparent 50%), linear-gradient(to right, #ffdfe4 50%, transparent 50%); background-size: 5px 5px;}

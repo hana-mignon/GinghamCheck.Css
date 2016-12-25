@@ -1,0 +1,13 @@
+/*
+  * "GinghamCheck.Css" -Version 1.0.0-beta.2~- Css.
+  * Default colors scss file.
+  * The MIT License.
+  * Copyright hana.
+  * https://github.com/hana-mignon.
+*/ 
+
+.gingham-check {
+  background-color: $bg-color;
+  background-image: linear-gradient(to bottom, $bg-img-color-width $amount, $bg-element $amount), linear-gradient(to right, $bg-img-color-height $amount, $bg-element $amount);
+  background-size: $bg-size $bg-size;
+}
